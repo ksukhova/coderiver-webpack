@@ -4,7 +4,13 @@ import 'slick-carousel';
 
 function initSlider() {
   $(document).ready(function() {
-    $('#slick').slick();
+    $('#slider').slick({
+      dots: true,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 5000
+    });
   });
 }
 

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87 86" width="87" height="86">
+	<defs>
+		<image width="87" height="86" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFcAAABWCAMAAACNSvr7AAAAAXNSR0IB2cksfwAAADNQTFRFAAAA51878Z+J7Ypv6nRV8qqW+dTL/////Orl/fTy75R8+t/Y6WpI9b+x7H9i9LSj98q+viHKswAAABF0Uk5TAP////////////////////8QFUChAAABIElEQVR4nO3VyxKDIAwFUAWUh4/2/7+2ERRhAUJh0c7c7DLDnGAMMAyIP46xX8CFCxcuXLhw4cINg/EwE1MfV8xSBemkJevhkiOlCYpIubS760bOLK6UUxHdoQ/rQs792ewosmbWl7r01Xr3GSd2y6wudl8RK/QTW+ge+wtGjDY/59lCl5r7vjNDVURybYXLwwGz200PWI17jNidCcoyE1bhLtEGTdzsBle6mN38Ti5TW67HNe45XNOVBZPX6NqLxrvRLfSNu0QbNneZdCeK5+Fs8ejm4Yz07ytymYfs6VA+TTe47Lx5iUVlWvtrD9zVhtEeuIc2lN5nu6W268a1T4cy6fUV7wXn4T2+88zw1riVARcuXLhw4cKF+5MuAmHjAxpGHWT05NaMAAAAAElFTkSuQmCC"/>
+	</defs>
+	<use id="icon" style="fill-opacity: NaN" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>
